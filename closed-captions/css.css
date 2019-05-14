@@ -21,6 +21,58 @@ Feel free to adjust the defaults to your needs.
 	font-style: italic;
 }
 
+/* body{
+	display: flex;
+	flex-direction: column;
+}
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.align {
+	display: flex;
+	width: 100vw;
+}
+
+header {
+	border: 1px solid green;
+	height: 10vh;
+}
+
+#wrapper-left {
+	border: 1px solid red;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 55vw;
+	height: 90vh;
+}
+
+#wrapper-left iframe {
+	width: 100%;
+}
+
+#closed-captions {
+	border: 1px solid black;
+	/* flex-basis: 40%; */
+}
+
+#wrapper-right {
+	border: 1px solid blue;
+	width: 45vw;
+	height: 90vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+#wrapper-right img {
+	width: 100%;
+}
+
 /* **********************************************
 The first paragraph, with extended timing for
 	all siblings. Basically what it does is that
@@ -95,6 +147,28 @@ You probably want to change the styling.
 	font-family: "brenner slab";
 }
 
+.p6 span {
+	opacity: 0;
+	font-family: "brenner mono light";
+}
+.p6.on span:first-of-type {
+	opacity: 1;
+	transition: 0s;
+	font-weight: 200;
+}
+.p6.on span:nth-of-type(2) {
+	opacity: 1;
+	transition: 0s .2s;
+	margin-right: -.25em;
+	font-weight: 200;
+}
+.p6.on span:nth-of-type(3) {
+	opacity: 1;
+	transition: 0s .5s;
+	margin-right: -.25em;
+	font-weight: 200;
+}
+
 #closed-captions p:nth-child(2) {
 	color: blue;
 	text-transform: uppercase;
@@ -110,3 +184,65 @@ You probably want to change the styling.
 	font-style: Normal;
 	font-weight: 400;
 }
+
+
+.typewriter {
+    font-family: "brenner mono light";
+}
+
+.voice1-typewriter {
+  	overflow: hidden;
+  	letter-spacing: 2px;
+ 		animation: typing 5s steps(30, end), blink .75s step-end infinite;
+    white-space: nowrap;
+    font-size: 20px;
+    font-weight: 700;
+    border-right: 4px solid orange;
+    box-sizing: border-box;
+}
+
+@keyframes typing {
+    from {
+        width: 0%
+    }
+    to {
+        width: 100%
+    }
+}
+
+@keyframes blink {
+    from, to {
+        border-color: transparent
+    }
+    50% {
+        border-color: orange;
+    }
+}
+
+.p0.on::before	{
+	content: "stem 1: ";
+	color: green;
+}
+
+/*
+.sound1 iframe {
+animation: bobbelen 1s linear 1 forward;
+}
+
+@keyframes bobbelen {
+	0% {
+	transform: transelate (0, 0);
+	}
+
+	10% {
+	transform: transelate (1vw, 1vw);
+	}
+
+	100% {
+		transform: rotate(5deg);
+	}
+} */
+
+/* .sound0 {
+background-color: green;
+} */

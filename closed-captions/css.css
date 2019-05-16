@@ -171,6 +171,116 @@ You probably want to change the styling.
 	font-weight: 400;
 }
 
+.p6 {
+	top: 60%; left: 10%;
+}
+.p8 {
+	top: 69%; left: 20%;
+	font-size: 3vw;
+}
+.p9 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p11 {
+	top: 69%; left: 20%;
+	font-size: 3vw;
+}
+.p12 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p14 {
+	top: 69%; left: 20%;
+	font-size: 3vw;
+}
+.p15 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p17 {
+	top: 69%; left: 20%;
+	font-size: 3vw;
+}
+.p18 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p19 {
+	top: 69%; left: 15%;
+	font-size: 3vw;
+}
+.p20 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p22 {
+	top: 69%; left: 15%;
+	font-size: 3vw;
+}
+.p23 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p25 {
+	top: 69%; left: 15%;
+	font-size: 3vw;
+}
+.p26 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p28 {
+	top: 69%; left: 15%;
+	font-size: 3vw;
+}
+.p29 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p28 {
+	top: 69%; left: 15%;
+	font-size: 3vw;
+}
+.p29 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p31 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p33 {
+	top: 69%; left: 15%;
+	font-size: 3vw;
+}
+.p34 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p36 {
+	top: 69%; left: 15%;
+	font-size: 3vw;
+}
+.p37 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p41 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p42 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+.p43 {
+	top: 61%; left: 20%;
+	font-size: 3vw;
+}
+
+
+
 #closed-captions p:nth-child(2) {
 	color: blue;
 	text-transform: uppercase;
@@ -186,7 +296,7 @@ You probably want to change the styling.
 	font-family: "brenner sans regular";
 	font-style: Normal;
 	font-weight: 400;
-	color: #fff;
+	color: #b5b5b5;
 }
 .voice3 {
 	font-family: "brenner sans condensed";
@@ -235,10 +345,35 @@ You probably want to change the styling.
 	color: green;
 }
 
-/* .sound8 {
+.sound9 {
 	background-image: url("img/Audiowave1.gif");
+	background-position: 89% 55%;
+	background-repeat: no-repeat;
+	background-size: 40%;
+}
+.sound11 {
+	background-image: url("blackbackground.jpg");
+	background-position: 89% 55%;
+	background-repeat: no-repeat;
+	background-size: 40%;
+}
+.sound13 {
+	background-image: url("img/Audiowave2.gif");
+	background-position: 89% 55%;
+	background-repeat: no-repeat;
+	background-size: 40%;
+}
+.sound14 {
+	background-image: url("blackbackground.jpg");
+	background-position: 89% 55%;
+	background-repeat: no-repeat;
+	background-size: 40%;
+}
 
+/* .sound0 {
+background-color: green;
 } */
+
 
 /*
 .sound1 iframe {
@@ -258,7 +393,3 @@ animation: bobbelen 1s linear 1 forward;
 		transform: rotate(5deg);
 	}
 } */
-
-.sound0 {
-background-color: green;
-}

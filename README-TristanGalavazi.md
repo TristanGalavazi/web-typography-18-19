@@ -1,88 +1,22 @@
-# Project Title
+# Web Typography
 
-One Paragraph of project description goes here
 
-## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Concept
 
-### Prerequisites
+My concept is based around visualising the hidden audiotracks and sounds within the video. First of I listened and watched which background sounds and noises are important to visualise. One of the most imporant sounds is played during both of the baseline tests. The reason behind this sound is to slowly build up tention during the baseline test. I've tried to visualise this sound to an audiowave. The intensity of the audiowave is connected to the background sound of the baseline tests. 
+This audiowave is also played wihtin an old-school television that is placed next to the video. The old-school television has to represent the equipment that is used in the first Blade Runner movie during the baseline tests. 
 
-What things you need to install the software and how to install them
+Besides the background sounds during the basline tests I tried to distinguish the difference between the two tests by using different font family's. I also gave the operator and officer-K specific fonts so it is easy to recognise who's talking. 
 
-```
-Give examples
-```
+In the second baseline test there is also an intense score played in the background. I wanted to transelate this intense score by making a background gradient animation that is changing from colors based on the mood of the situation. As soon when officer-K having doubts and showing emotional reactions towards the operators questions the gradient changes colors from (stable) blue to (danger/emotional/love) orange/red. 
 
-### Installing
+### Sources
 
-A step by step series of examples that tell you how to get a development env running
+• Background gradient tutorial: https://www.youtube.com/watch?v=0opookDE4bk
+• Typography cc: https://www.videomaker.com/article/c01/18478-the-subtle-art-of-subtitles
+• Background information about the baseline test: https://scifi.stackexchange.com/questions/174937/whats-the-main-purpose-of-the-baseline-test-in-blade-runner
 
-Say what the step will be
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+- Tristan Galavazi 
+  VID2

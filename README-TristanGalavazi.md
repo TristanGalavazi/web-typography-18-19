@@ -9,7 +9,7 @@ This audiowave is also played wihtin an old-school television that is placed nex
 
 Besides the background sounds during the basline tests I tried to distinguish the difference between the two tests by using different font family's. I also gave the operator and officer-K specific fonts so it is easy to recognise who's talking. 
 
-In the second baseline test there is also an intense score played in the background. I wanted to transelate this intense score by making a background gradient animation that is changing from colors based on the mood of the situation. As soon when officer-K having doubts and showing emotional reactions towards the operators questions the gradient changes colors from (stable) blue to (danger/emotional/love) orange/red. 
+In the second baseline test there is also an intense score played in the background. I wanted to transelate this intense score by making a background gradient animation that is changing from colors based on the mood of the situation. As soon when officer-K is having doubts and showing emotional reactions towards the operators questions the gradient changes colors from (stable) blue to (danger/emotional/love) orange/red. 
 
 ### Sources
 

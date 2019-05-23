@@ -14,7 +14,9 @@ In the second baseline test there is also an intense score played in the backgro
 ### Sources
 
 • Background gradient tutorial: https://www.youtube.com/watch?v=0opookDE4bk
+
 • Typography cc: https://www.videomaker.com/article/c01/18478-the-subtle-art-of-subtitles
+
 • Background information about the baseline test: https://scifi.stackexchange.com/questions/174937/whats-the-main-purpose-of-the-baseline-test-in-blade-runner
 
 

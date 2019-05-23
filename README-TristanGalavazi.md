@@ -20,5 +20,6 @@ In the second baseline test there is also an intense score played in the backgro
 • Background information about the baseline test: https://scifi.stackexchange.com/questions/174937/whats-the-main-purpose-of-the-baseline-test-in-blade-runner
 
 
-- Tristan Galavazi 
-  VID2
+
+Tristan Galavazi 
+VID2
